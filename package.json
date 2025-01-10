@@ -1,0 +1,14 @@
+{
+  "name": "erp_saas_pipeline",
+  "version": "1.0.0",
+  "description": "A Jenkins CI/CD Pipeline Project",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building project...'",
+    "test": "echo 'Running tests...'",
+    "start": "node index.js"
+  },
+  "author": "Kenneth Howard",
+  "license": "ISC"
+}
+
